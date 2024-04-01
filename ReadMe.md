@@ -1,4 +1,4 @@
-# Movies Correlation Using Python(Pandas)
+# Movies Correlation Using Python
 
 This dataset provides information on 6820 movies released between 1986 and 2016, with 220 movies per year on average. The dataset covers various aspects of movies including budget, production company, country of origin, director, genre, revenue, rating, release date, duration, IMDb user rating, number of user votes, main actor/actress, writer, and year of release. 
 
